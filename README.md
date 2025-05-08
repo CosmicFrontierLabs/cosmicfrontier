@@ -1,4 +1,1 @@
-# cosmicfrontier
-
-
-Test of githubpages
+Cosmic Frontier webpage
